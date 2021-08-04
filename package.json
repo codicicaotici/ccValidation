@@ -1,0 +1,20 @@
+{
+    "name": "ccValidation",
+    "version": "1.0.0",
+    "description": "C# text validation",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/codicicaotici/ccValidation.git"
+    },
+    "keywords": [
+        "C#",
+        ".NET",
+        "language"
+    ],
+    "author": "codicicaotici",
+    "license": "free",
+    "bugs": {
+        "url": "https://github.com/codicicaotici/ccValidation"
+    },
+    "homepage": "https://github.com/codicicaotici/ccValidation#readme"
+}
