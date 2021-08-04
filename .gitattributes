@@ -5,4 +5,4 @@
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false
 *.C# linguist-detectable=true 
-*.rb linguist-detectable=C#
+*.rb linguist-language=C#
